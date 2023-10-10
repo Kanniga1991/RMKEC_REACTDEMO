@@ -1,0 +1,14 @@
+.Votes{
+  align-items: center;
+ display: flex;
+ flex-direction: column;
+}
+img{
+  width:15rem;
+  height:15rem;
+}
+.brands{
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+}
